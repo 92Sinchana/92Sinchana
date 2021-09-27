@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sinchana
-- 👀 I’m interested in IT Company Working as Sofware web Developer.
+- 👀 I’m interested in Azure cloud technologies.
 - 🌱 I’m currently learning Azure cloud and Agular i have hands on experience in .NET Core.
-- 📫 How to reach me: You can drop me mail on sinchana.ramalingappa@gmail.com
+- 📫 You can reach me on sinchana.ramalingappa@gmail.com
 
 <!---
 92Sinchana/92Sinchana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
